@@ -1,4 +1,4 @@
-% dti_MIND_Preprocess.m
+% dti_Preprocess.m
 %
 % This script will read in a list of subjects (subCodeList) and run dtiInit
 % (with tri-linear interpolation and robust tensor fitting) on each of
